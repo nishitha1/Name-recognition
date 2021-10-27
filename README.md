@@ -43,6 +43,8 @@ However, it should be compatible with other versions
   ```
   - Code for name recognition
     - Data
+      - file1.txt
+      - file2.txt  
     - recognize_name.py
   ```
 ## Step 3 : Execute the python script
