@@ -31,6 +31,7 @@ However, it should be compatible with other versions
 - Here the 'Data' folder consists of all the text files
 - Save the 'Data' folder and python script (recognize_name.py) in the same folder
   e.g. the file path could be as follows
+  
   ```
   ‘/Users/xyz/Code for name recognition/’
 
@@ -38,6 +39,7 @@ However, it should be compatible with other versions
   Here, the 'Data' folder and 'recognize_name.py' is saved in the the folder 
   'Code for name recognition' <br>
   e.g. the file structure is as follows
+  
   ```
   - Code for name recognition
     - Data
